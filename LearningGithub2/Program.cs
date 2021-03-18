@@ -10,6 +10,14 @@ namespace LearningGithub2
     {
         static void Main(string[] args)
         {
+
         }
+
+        public void Say()
+        {
+            Console.WriteLine("I am a cat");
+        }
+
+        
     }
 }
