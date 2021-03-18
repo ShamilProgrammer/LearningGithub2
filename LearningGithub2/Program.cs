@@ -20,6 +20,7 @@ namespace LearningGithub2
 
         public void Speak() { }
 
+        public void Tell() { }
         
     }
 }
