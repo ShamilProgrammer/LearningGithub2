@@ -18,6 +18,8 @@ namespace LearningGithub2
             Console.WriteLine("I am a cat");
         }
 
+        public void Speak() { }
+
         
     }
 }
